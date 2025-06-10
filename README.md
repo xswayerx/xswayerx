@@ -7,7 +7,7 @@ I'm passionate about building software solutions and exploring new technologies.
 - 💻 Main Languages: **TypeScript**, **HTML**, **CSS**, **Java**
 - 🌱 Currently learning: Advanced React, REST APIs, Mobile App Development
 - 🔭 I’m working on: Patient Management Systems, Smart Absence Mobile Apps, and more!
-- 📫 How to reach me: [Your Email or LinkedIn] <!-- Add your contact details here -->
+- 📫 How to reach me: https://www.linkedin.com/in/yassine-labid-3b0372251/ <!-- Add your contact details here -->
 
 ## 🛠️ Projects
 
