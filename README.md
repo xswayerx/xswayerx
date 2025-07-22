@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 I'm passionate about building software solutions and exploring new technologies. Here you'll find a collection of my projects ranging from web development to mobile applications and backend services.
 
 ## 🚀 About Me
-- 💻 Main Languages: **TypeScript**, **HTML**, **CSS**, **Java**
+- 💻 Main Languages: **TypeScript**, **HTML**, **CSS**, **Java**,**C/C++**
 - 🌱 Currently learning: Advanced React, REST APIs, Mobile App Development
 - 🔭 I’m working on: Patient Management Systems, Smart Absence Mobile Apps, and more!
 - 📫 How to reach me: https://www.linkedin.com/in/yassine-labid-3b0372251/ <!-- Add your contact details here -->
