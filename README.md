@@ -1,4 +1,4 @@
-# Hi there, I'm xswayerx 👋
+# Hi there, I'm xswayerx 
 
 Welcome to my GitHub profile!  
 I'm passionate about building software solutions and exploring new technologies. Here you'll find a collection of my projects ranging from web development to mobile applications and backend services.
@@ -23,11 +23,7 @@ I'm passionate about building software solutions and exploring new technologies.
 ### [pring_project (contributor)](https://github.com/hamza0x0/pring_project)
 > HTML and Java-based project.
 
-## 📈 GitHub Stats
-![xswayerx's GitHub stats](https://github-readme-stats.vercel.app/api?username=xswayerx&show_icons=true&theme=radical)
-
-
-
 <!--
-**xswayerx/xswayerx** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+test 
 -->
+
